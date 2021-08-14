@@ -2,7 +2,7 @@ import os
 
 from flask import Flask
 
-
+# Principal functions
 def create_app():
     app = Flask(__name__)
 
